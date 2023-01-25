@@ -1,0 +1,28 @@
+
+.q-wrap{
+    margin: 0;
+    height: 60vh;
+    background: bisque;
+}
+.h-wrap{
+    height: 5vh;
+    background: grey;
+    color: beige;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.h-wrap>p{
+    margin: 0;
+}
+.d-wrap{
+    margin-right: 3%;
+}
+.c-wrap{
+    display: flex;
+    justify-content: center;
+    margin-top: 2%;
+}
+.i-wrap>div {
+    margin: 21% 5% 0 44%;
+}
